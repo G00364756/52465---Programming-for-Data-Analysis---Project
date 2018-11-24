@@ -1,0 +1,80 @@
+,Fuel,Form,"Unit ofSupply","AveragePrice perUnit (€)1","GrossCalorificValue(kWh/unit)","DeliveredEnergy Costcent/kWh","Percentagechange since01/07/2018","PercentageChange since1 October, 2017",,,,,,,,,,
+,Peat2,"Briquettes, Baled",Bale,4.5,67,6.72,-,-5.30%,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,Coal3,"Nuggets (Lignite)Premium Coal, bulkPremium Coal, bag4Standard Coal, bulkStandard Coal, bag4Standard AnthraciteGrade A AnthraciteOvoids (Low Smoke), bulkOvoids (Low Smoke), bag4","TonneTonne40 kg BagTonne40 kg BagTonneTonneTonne40 kg Bag","425.00475.0019.66437.5018.66550.00625.00500.0020.87","5763.58267.2330.77900.0316.08735.28960.08850.0354.0","7.375.755.955.545.916.306.985.655.89",-,"+6.5%+7.5%+7.3%+3.7%+6.8%+8.1%+13.8%+3.3%+0.6%",,,,,,,,,,
+,,"-+7%",,,,,,,,,,,,,,,,
+ths),,"-+7%---+1%",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,Oil5,Gas Oil (schedule)6,Litre,0.96,10.55,9.11,6.40%,"+18.6%+25.8%+20.6%+31.5%",,,,,,,,,,
+,,Gas Oil (typical discounted price)7,Litre,0.85,10.55,8.07,12.10%,,,,,,,,,,,
+,,Kerosene (schedule)6,Litre,0.93,10.18,9.18,5.60%,,,,,,,,,,,
+,,Kerosene (typical discounted price)7,Litre,0.81,10.18,7.97,12.30%,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,L.P.G.,Bulk L.P.G.8,Litre,0.86,7.09,12.16,13.20%,17.60%,,,,,,,,,,
+,,"Bottled ButaneBottled Propane","11.35 kg Cylinder34 kg Cylinder","31.77100.50","155.7471.0","20.4121.34","+5.1%+19.5%","+5.1%+23.7%",,,,,,,,,,
+,,Bottled Propane,47 kg Cylinder,138.23,651,21.23,18%,22.40%,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,Natural Gas 9,"Band D1: <5,556 kWh per annumBand D2: >=5,556 <55,556 kWh per annumBand D3: >=55,556 kWh per annum",kWh,0.069,1,6.94,-13.80%,-2.60%,,,,,,,,,,
+,,"kWhkWh","0.0630.060","1.01.0","6.326.04","-2.7%+5.1%","-0.0%+2.4%",,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,"Electricity 10, 11","Band DA: <1,000 kWh per annum",kWh,0.38,1,38.42,-8.00%,-7.40%,,,,,,,,,,
+,"Band DB: >=1,000 <2,500 kWh per annumBand DC: >=2,500 <5,000 kWh per annumBand DD: >=5,000 <15,000 kWh per annumBand DE: >=15,000 kWh per annumNight rate12","kWhkWhkWhkWhkWh","0.310.240.200.160.09","1.01.01.01.01.0","30.6223.6919.5816.178.94","+1.4%+0.6%-2.6%-1.4%","+2.6%+2.8%+2.0%+1.7%",,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,"Wood 13, 14","Pellets Bulk Delivery 15Pellets Bagged","kgkg","0.310.36","4.84.8","6.517.45","--------","+13.1%+4.0%",,,,,,,,,,
+,,Briquettes,kg,0.39,4.8,8.1,4.30%,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,"Hardwood, Small Bag, 20% moisture, CollectedSoftwood, Small Bag, 25% moisture, Collected","kgkg","0.470.38","4.163.86","11.279.93","-6.9%+13.5%",,,,,,,,,,,
+,"Hardwood, Full Pallet, 20% moisture, Delivered",kg,0.4,4.16,9.62,-1.80%,,,,,,,,,,,,
+,"Softwood, Full Pallet, 25% moisture, Delivered",kg,0.31,3.86,8.02,5.20%,,,,,,,,,,,,
+,"Softwood, Bulk (loose), 25% moisture, Delivered",kg,0.22,3.86,5.57,9.00%,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,Fuel 16,Form,"DeliveredEnergy Cost 17(c/kWh)",,Seasonal Efficiency Ratings 18,,"Typical Seasonal Efficiencies26Open Fire, Solid fuel or Gas DFE 22All20-30%",,,,,,,,,,,
+,,,,,100%,90%,80%,70%,60%,50%,40%,30%,20%,,,,,
+,Peat,"Briquettes, Baled",6.72,,,,,,11.19,13.43,16.79,22.39,33.58,,,,,
+.,Coal,Nuggets (Lignite),7.37,,,,9.22,10.53,12.29,14.75,18.43,24.58,36.87,,,,,
+,,"Premium Coal, bulk",5.75,,,,7.18,8.21,9.58,11.49,14.36,19.15,28.73,,Open Fire - Designed to Maximise Heating23,,,
+,,"Premium Coal, bag",5.95,,,,7.43,8.49,9.91,11.89,14.86,19.82,29.73,,Coalup to 32%,,,
+,,"Standard Coal, bulk",5.54,,,,6.92,7.91,9.23,11.08,13.84,18.46,27.69,,Ovoids (Low Smoke)up to 37%,,,
+,,"Standard Coal, bag",5.91,,,,7.38,8.44,9.84,11.81,14.76,19.68,29.53,,,,,
+,,Standard Anthracite 19,6.3,,,,7.87,8.99,10.49,12.59,15.74,20.99,31.48,,Open Fire with High Output Back Boiler,,,
+,,Grade A Anthracite 19,6.98,,,,8.72,9.96,11.63,13.95,17.44,23.25,34.88,,All40-50%,,,
+,,"Ovoids (Low Smoke), bulk19",5.65,,,,7.06,8.07,9.42,11.3,14.12,18.83,28.25,,,,,
+,,"Ovoids (Low Smoke), bag 19",5.89,,,,7.37,8.42,9.82,11.79,14.74,19.65,29.47,,,Stove / Clos,d Room Heater (with,ut Back Boiler)
+,,,,,,,,,,,,,,,Peat45-55%,,,
+,Oil,Gas Oil (schedule),9.11,,,10.12,11.39,13.01,15.18,18.22,,,,,Coal50-80%,,,
+,,Gas Oil (typical discounted price),8.07,,,8.96,10.08,11.52,13.44,16.13,,,,,Gas60-75%,,,
+,,Kerosene (schedule) 20,9.18,,,10.2,11.47,13.11,15.3,18.36,,,,,,,,
+,,Kerosene (typical discounted price) 20,7.97,,,8.86,9.96,11.39,13.28,15.94,,,,,ack Boiler),,,
+,,,,,,,,,,,,,,,,,,
+,L.P.G.,Bulk L.P.G.21,12.16,,,13.51,15.2,17.37,20.27,24.32,,,,,,,,
+,,Bottled Butane,20.41,,,22.68,25.51,29.15,34.01,40.82,,,,,Oil Fired Boiler,,,
+,,Bottled Propane 34kg,21.34,,,23.71,26.67,30.48,35.56,42.67,,,,,Gas Oil55-75%,,,
+,,Bottled Propane 47kg,21.23,,,23.59,26.54,30.33,35.39,42.47,,,,,Kerosene60-75%,,,
+,,,,,,,,,,,,,,,,,,
+,Natural Gas,"Band D1: <5,556 kWh per annumBand D2: >=5,556 <55,556 kWh per annumBand D3: >=55,556 kWh per annum",6.94,,,7.71,8.68,9.92,11.57,13.88,17.35,23.14,34.71,,Gas Fired Boiler,,,
+,,6.32,,,7.02,7.9,9.03,10.53,12.64,15.8,21.07,31.6,,All55-75%,,,,
+,,6.04,,,6.71,7.55,8.63,10.06,12.08,15.1,20.13,30.19,,,,,,
+,,,,,,,,,,,,,,,,"Wood Product or Biomass BoilerAll55-87%",,
+,Electricity,"Band DA: <1,000 kWh per annum",38.42,,38.42,42.69,,,,,,,,,,,,
+,,"Band DB: >=1,000 <2,500 kWh per annumBand DC: >=2,500 <5,000 kWh per annumBand DD: >=5,000 <15,000 kWh per annumBand DE: >=15,000 kWh per annumNight rate",30.62,,30.62,34.02,,,,,,,,,,,,
+,,23.69,,23.69,26.32,,,,,,,,,Flueless Gas24,,,,
+,,19.58,,19.58,21.76,,,,,,,,,All90%,,,,
+,,16.17,,16.17,17.97,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Condensing Boiler,,,,
+,,8.94,,8.94,9.93,,,,,,,,,85-97%,,,,
+,,,,,,,,,,,,,,,,,,
+,Wood,Pellets Bulk Delivery,6.51,,,7.23,8.14,9.3,10.85,13.02,16.28,,,,Electric Storage Heater,,,
+,,Pellets Bagged,7.45,,,8.28,9.32,10.65,12.42,14.91,18.63,,,,All90%,,,
+,,Briquettes,8.1,,,9,10.13,11.58,13.51,16.21,20.26,27.01,40.52,,,,,
+,,,,,,,,,,,,,,,"Electric (Electric Fire, Panel Heater)",,,
+,,"Hardwood, Small Bag, 20% moisture, Collected",11.27,,,,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,All100%,,,
+"Softwood, Small Bag, 25% moisture, Collected9.9312.4114.1916.5519.8624.8333.1049.65Hardwood, Full Pallet, 20% moisture, Delivered9.6212.0213.7416.0319.2324.0432.0548.08Softwood, Full Pallet, 25% moisture, Delivered8.0210.0211.4613.3616.0420.0526.7340.09Softwood, Bulk (loose), 25% moisture, Delivered5.576.967.969.2811.1413.9218.5727.85",,"Softwood, Small Bag, 25% moisture, CollectedHardwood, Full Pallet, 20% moisture, DeliveredSoftwood, Full Pallet, 25% moisture, DeliveredSoftwood, Bulk (loose), 25% moisture, Delivered","9.939.628.025.57",,,,"12.4112.0210.026.96","14.1913.7411.467.96","16.5516.0313.369.28","19.8619.2316.0411.14","24.8324.0420.0513.92","33.1032.0526.7318.57","49.6548.0840.0927.85",,,,,
+,,Electricity used for Heat pumps25,"DeliveredEnergy Cost 17",,Seasonal Performance Factor (SPF)26 for heat pumps,,Typical SPFs for Heat Pump Types27,,,,,,,,,,,
+,,(c/kWh),,,2.5,3,3.5,4,4.5,5,5.5,6,,,,,,
+,"Band DA: <1,000 kWh per annum",38.42,,,15.37,12.81,10.98,9.61,8.54,7.68,6.99,6.4,,,"Ground source (horizontal)2.7 - 4.5Ground source (vertical)2.7 - 4.5Air/Air2.5 - 4.2Air/Water2.5 - 4.0Water/Water3.0 - 5.6Exhaust Air2.5 - 4.2",,,
+Electricity,"Band DB: >=1,000 <2,500 kWh per annumBand DC: >=2,500 <5000 kWh per annumBand DD: >=5,000 <15,000 kWh per annumBand DE: >=15,000 kWh per annumNight rate",30.62,,,12.25,10.21,8.75,7.66,6.8,6.12,5.57,5.1,,,,,,
+,23.69,,,9.48,7.9,6.77,5.92,5.26,4.74,4.31,3.95,,,,,,,
+,19.58,,,7.83,6.53,5.6,4.9,4.35,3.92,3.56,3.26,,,,,,,
+,16.17,,,6.47,5.39,4.62,4.04,3.59,3.23,2.94,2.69,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,8.94,,,3.58,2.98,2.55,2.23,1.99,1.79,1.63,1.49,,,,,,,
