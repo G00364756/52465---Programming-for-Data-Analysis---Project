@@ -1,0 +1,17 @@
+FUEL,HEATING SYSTEM,Seasonal COP,€/kWhth
+Wood,Open fireplace,0.15,0.23
+Wood,Fireplace with room air circulation chamber,0.35,0.1
+Wood,Fireplace with embedded heat exchangers (gas to air/water),0.7,0.05
+Wood,Wood stove,0.8,0.044
+Pellet,Stove,0.85,0.083
+Pellet,Water circulating stove Hot water boiler,0.9,0.079
+Natural gas,Hot water boiler,0.88,0.089
+Natural gas,Condensing hot water boiler,1.015,0.077
+Diesel oil,Hot water boiler,0.86,0.117
+Electricity (night tariff),Storage heater,1,0.12
+Electricity (day tariff),"Panel heaters, infrared heaters, radiative heaters, electric boiler, electric fireplace",1,0.19
+Electricity (day tariff),Air-to-Air/Air-to-Water heat pump,3,0.063
+Electricity (day tariff),Ground source heat pump,3.7,0.05
+Electricity (night+day tariff),"Panel heaters, infrared heaters, radiative heaters, electric boiler, electric fireplace",1,0.15
+Electricity (night+day tariff),Air-to-Air/Air-to-Water heat pump,3,0.05
+Electricity (night+day tariff),Ground source heat pump,3.7,0.041
